@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifra Ejaz</h1>
 <h3 align="center">A 4th year computer science student at FAST-NUCES Lahore.</h3>
 <p align="center">
-- 📫 How to reach me **ifraejaz07@gmail.com**
+- 📫 How to reach me  **ifraejaz07@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
